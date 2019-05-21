@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name sunmeishi-rescue)(type Legacy)(uri ${KIPRJMOD}/sunmeishi-rescue.lib)(options "")(descr ""))
+)
